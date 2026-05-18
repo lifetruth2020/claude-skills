@@ -196,6 +196,17 @@ This repository publishes skills to **ClawHub** (clawhub.com) as the distributio
 
 **Quality Standard:** Each skill should save users 40%+ time while improving consistency/quality by 30%+.
 
+## MCP Integrations
+
+### Figma MCP
+
+Connect Figma to Claude Code for design-to-code workflows:
+
+- **Catalog:** https://www.figma.com/mcp-catalog/
+- **What it enables:** Read Figma files and components, inspect design tokens, extract assets, and generate code from designs directly in Claude Code sessions.
+- **Setup:** Add the Figma MCP server via the catalog URL above, then authenticate with your Figma account. Once connected, Claude Code can access your Figma files and translate designs into implementation specs or code.
+- **Relevant skills:** `product-team/` (UX research, wireframing), `engineering-team/` (frontend implementation), `marketing-skill/` (design asset management)
+
 ## Additional Resources
 
 - **.gitignore:** Excludes .vscode/, .DS_Store, AGENTS.md, PROMPTS.md, .env*
@@ -206,6 +217,6 @@ This repository publishes skills to **ClawHub** (clawhub.com) as the distributio
 
 ---
 
-**Last Updated:** March 31, 2026
+**Last Updated:** May 18, 2026
 **Version:** v2.2.0
 **Status:** 223 skills deployed across 9 domains, 28 marketplace plugins, docs site live

@@ -34,6 +34,7 @@ GITHUB_ISSUE_RESPONSES.md
 AUDIT_REPORT.md
 # Archive folder (historical/backup files)
 archive/
+!vault/archive/
 
 # Custom GPT configurations (private — instructions not publicly exposed)
 custom-gpt/*-gpt.md

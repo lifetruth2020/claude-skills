@@ -36,6 +36,9 @@ AUDIT_REPORT.md
 archive/
 !vault/archive/
 
+# Obsidian local config (plugin settings, workspace state — not vault content)
+vault/.obsidian/
+
 # Custom GPT configurations (private — instructions not publicly exposed)
 custom-gpt/*-gpt.md
 
